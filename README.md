@@ -25,7 +25,7 @@ Node.js Controller for the USB "Webmail Notifier" that can light up with 7 diffe
 	// colour, delay, times
     notifier.flash('RED',1000,20);
 
- ## Switch off:
+## Switch off:
 
  	notifier.off();
  	// or
