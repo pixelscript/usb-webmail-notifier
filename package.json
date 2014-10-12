@@ -1,6 +1,6 @@
 {
   "name": "usb-webmail-notifier",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Controller for the USB \"Webmail Notifier\" that can light up with 7 different colours",
   "main": "usb-webmail-notifier.js",
   "scripts": {
