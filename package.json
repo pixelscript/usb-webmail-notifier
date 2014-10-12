@@ -19,6 +19,9 @@
     "colours",
     "controller"
   ],
+  "dependencies": {
+    "node-hid": "^0.3.1"
+  },
   "author": "Chris Corbett",
   "license": "MIT",
   "bugs": {
