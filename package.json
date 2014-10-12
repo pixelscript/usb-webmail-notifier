@@ -1,0 +1,28 @@
+{
+  "name": "usb-webmail-notifier",
+  "version": "0.0.0",
+  "description": "Controller for the USB \"Webmail Notifier\" that can light up with 7 different colours",
+  "main": "usb-webmail-notifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelscript/usb-webmail-notifier"
+  },
+  "keywords": [
+    "usb",
+    "node",
+    "webmail",
+    "notifier",
+    "colors",
+    "colours",
+    "controller"
+  ],
+  "author": "Chris Corbett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pixelscript/usb-webmail-notifier/issues"
+  },
+  "homepage": "https://github.com/pixelscript/usb-webmail-notifier"
+}
